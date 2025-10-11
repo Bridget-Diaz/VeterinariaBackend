@@ -9,3 +9,294 @@
 2025-10-02 21:44:40,820 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-10-02 21:44:40,924 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-10-02 21:44:41,015 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-10 12:59:32,914 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-10-10 13:00:29,668 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-10 13:00:30,002 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-10 13:00:30,780 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-10 23:58:34,450 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-10 23:58:34,530 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-10 23:58:34,593 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 00:05:34,340 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 00:05:34,348 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 00:05:34,391 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 00:10:15,580 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 00:10:15,585 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 00:10:15,595 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 00:12:12,676 [Worker-66: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 00:12:12,681 [Worker-66: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 00:12:12,696 [Worker-66: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 00:18:48,529 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 00:18:48,533 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 00:18:48,543 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 00:24:38,691 [Worker-65: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 00:24:38,696 [Worker-65: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 00:24:38,707 [Worker-65: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 00:29:36,369 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 00:29:36,374 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 00:29:36,384 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 00:34:27,240 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 00:34:27,246 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 00:34:27,256 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 00:42:54,400 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 00:42:54,405 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 00:42:54,417 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 00:46:40,342 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 00:46:40,349 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 00:46:40,357 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 00:48:55,607 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 00:48:55,611 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 00:48:55,620 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 01:09:11,768 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 01:09:11,772 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 01:09:11,780 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 01:13:06,541 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 01:13:06,545 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 01:13:06,554 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 01:17:55,344 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 01:17:55,346 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 01:17:55,356 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 01:23:22,825 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 01:23:22,830 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 01:23:22,840 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 01:28:02,968 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 01:28:02,973 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 01:28:02,983 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 01:38:36,050 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 01:38:36,055 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 01:38:36,063 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 01:43:23,440 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 01:43:23,444 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 01:43:23,453 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 01:47:59,636 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 01:47:59,641 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 01:47:59,650 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 01:59:36,102 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 01:59:36,106 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 01:59:36,115 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 02:23:47,308 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 02:23:47,314 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 02:23:47,323 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 02:32:16,845 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 02:32:16,851 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 02:32:16,861 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 02:36:00,871 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 02:36:00,875 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 02:36:00,886 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 02:39:06,731 [Worker-60: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 02:39:06,738 [Worker-60: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 02:39:06,746 [Worker-60: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 02:46:16,101 [Worker-58: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 02:46:16,106 [Worker-58: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 02:46:16,115 [Worker-58: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 02:51:51,981 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 02:51:51,984 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 02:51:51,992 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 02:58:47,380 [Worker-61: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 02:58:47,388 [Worker-61: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 02:58:47,398 [Worker-61: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:04:02,428 [Worker-65: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:04:02,434 [Worker-65: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:04:02,444 [Worker-65: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:11:16,607 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:11:16,611 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:11:16,620 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:19:49,631 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:19:49,637 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:19:49,645 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:22:18,685 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:22:18,689 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:22:18,700 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:25:01,811 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:25:01,815 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:25:01,823 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:26:26,104 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:26:26,107 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:26:26,116 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:30:17,531 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:30:17,535 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:30:17,543 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:31:56,382 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:31:56,385 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:31:56,393 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:35:25,177 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:35:25,180 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:35:25,190 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:40:24,364 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:40:24,367 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:40:24,376 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:42:03,814 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:42:03,818 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:42:03,825 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:43:36,118 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:43:36,122 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:43:36,130 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:48:30,586 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:48:30,590 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:48:30,599 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:57:30,504 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:57:30,508 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:57:30,516 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 03:58:22,976 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 03:58:22,979 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 03:58:22,986 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:07:41,750 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:07:41,754 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:07:41,763 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:08:56,979 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:08:56,984 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:08:56,993 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:12:58,378 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:12:58,382 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:12:58,390 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:15:55,589 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:15:55,594 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:15:55,606 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:19:40,292 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:19:40,295 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:19:40,303 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:20:46,821 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:20:46,826 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:20:46,834 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:22:26,074 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:22:26,076 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:22:26,083 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:24:39,442 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:24:39,445 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:24:39,452 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:26:40,661 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:26:40,666 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:26:40,673 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:30:23,567 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:30:23,573 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:30:23,582 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:31:51,987 [Worker-63: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:31:51,991 [Worker-63: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:31:52,000 [Worker-63: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:35:38,399 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:35:38,403 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:35:38,410 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:40:01,963 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:40:01,967 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:40:01,975 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:41:28,457 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:41:28,461 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:41:28,469 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:42:26,231 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:42:26,235 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:42:26,244 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:45:47,918 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:45:47,922 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:45:47,931 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:51:32,067 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:51:32,075 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:51:32,085 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:59:02,530 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:59:02,534 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:59:02,542 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 04:59:59,965 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 04:59:59,969 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 04:59:59,979 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 05:04:50,149 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 05:04:50,153 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 05:04:50,161 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 05:08:09,976 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 05:08:09,980 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 05:08:09,991 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 05:08:34,255 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 05:08:34,260 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 05:08:34,275 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 10:27:23,078 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-10-11 10:43:58,272 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 10:43:58,315 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 10:43:58,335 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 10:49:25,379 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 10:49:25,385 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 10:49:25,396 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 10:49:26,061 [Worker-2: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 10:49:26,074 [Worker-2: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 10:49:26,093 [Worker-2: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 10:53:56,451 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 10:53:56,466 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 10:53:56,477 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 10:58:50,565 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 10:58:50,571 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 10:58:50,580 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 11:01:16,815 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 11:01:16,818 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 11:01:16,828 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 11:07:00,082 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 11:07:00,086 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 11:07:00,096 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 11:11:59,516 [Worker-5: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 11:11:59,555 [Worker-5: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 11:11:59,567 [Worker-5: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 11:15:09,608 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 11:15:09,637 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 11:15:09,649 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 11:16:34,315 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 11:16:34,320 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 11:16:34,332 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 11:33:22,464 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 11:33:22,476 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 11:33:22,489 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 11:34:26,468 [Worker-1: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 11:34:26,484 [Worker-1: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 11:34:26,509 [Worker-1: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 11:40:33,037 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 11:40:33,040 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 11:40:33,048 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 11:40:59,586 [Worker-4: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 11:40:59,643 [Worker-4: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 11:40:59,656 [Worker-4: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:01:39,475 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 12:01:39,501 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 12:01:39,512 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:04:55,028 [Worker-5: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 12:04:55,036 [Worker-5: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 12:04:55,049 [Worker-5: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:08:28,464 [Worker-10: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 12:08:28,468 [Worker-10: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 12:08:28,479 [Worker-10: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:15:14,512 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 12:15:14,516 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 12:15:14,525 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:36:52,630 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 12:36:52,634 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 12:36:52,642 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:37:04,483 [Worker-2: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 12:37:04,495 [Worker-2: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 12:37:04,506 [Worker-2: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:50:48,713 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.superpet:ProyectoSuperpet:0.0.1-SNAPSHOT @ C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\pom.xml.
+2025-10-11 12:50:51,021 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 12:50:51,028 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 12:50:51,064 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:50:54,248 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 12:50:54,311 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 12:50:54,359 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:51:36,906 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 12:51:36,911 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 12:51:36,921 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:54:33,883 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 12:54:33,886 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 12:54:33,895 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:55:41,711 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 12:55:41,716 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 12:55:41,725 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:55:57,861 [Worker-13: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 12:55:57,873 [Worker-13: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 12:55:57,888 [Worker-13: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 12:58:38,451 [Worker-9: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 12:58:38,460 [Worker-9: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 12:58:38,471 [Worker-9: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 13:07:04,569 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 13:07:04,572 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 13:07:04,582 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 13:21:30,667 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 13:21:30,680 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 13:21:30,704 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 13:26:11,542 [Worker-2: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 13:26:11,563 [Worker-2: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-10-11 13:26:11,574 [Worker-2: Launching ProyectoSuperpet - ProyectoSuperpetApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources
+2025-10-11 13:31:30,586 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-11 13:31:30,589 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-11 13:31:30,598 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringTools\ProyectoSpring\Proyecto\ProyectoSuperpet\src\test\resources

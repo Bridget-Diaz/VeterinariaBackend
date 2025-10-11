@@ -6,8 +6,5 @@ import com.superpet.ProyectoSuperpet.model.Usuario;
 
 @Repository
 public interface UsuarioRepository extends JpaRepository<Usuario, Long> {
-    Usuario findByEmail(String email);
-    
-    
-   
+    Usuario findByEmail(String email);  
 }
